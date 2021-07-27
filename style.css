@@ -1,0 +1,36 @@
+h1{
+    color: coral;
+    background-color: seagreen;
+    height: 40px;
+}
+p{
+    color: blueviolet;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#nature{
+    font-size: 30px;
+    font-family: cursive;
+}
+#cricket{
+    color: lawngreen;
+}
+.lorem{
+    color: darkgoldenrod;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+.bgc{
+    background-color: darkgray;
+}
+.color{
+    color: darkslateblue;
+}
+.bus{
+    background-color: orange;
+    padding: 10px;
+    border: 10px solid black;
+    border-radius: 30px;
+    margin: 20px 10px;
+}
